@@ -4,7 +4,7 @@
 I am a Pinoy Full-stack Developer with Expertise in ctrl + C ctrl + V, Stack Overflow & ChatGPT. Excel in crafting scalable solutions and optimizing existing projects for diverse client projects. <br/>
 
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 [**`▪ WEBSITE`**][website]
