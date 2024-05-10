@@ -1,5 +1,5 @@
 # 👦🏻 John Irson <br/>
-**`Software Engineer | Full-Stack Developer | Website Designer | Indie Game Developer | AI Enthusiast`**
+**`Software Engineer | Indie Game Developer | AI Enthusiast`**
 
 I am a Pinoy Full-stack Developer with Expertise in ctrl + C ctrl + V, Stack Overflow & ChatGPT. Excel in crafting scalable solutions and optimizing existing projects for diverse client projects. <br/>
 
